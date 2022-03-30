@@ -1,0 +1,13 @@
+#* java -ea ataxx.Main
+# Testing illegal and legal blocks before playing
+dump
+block c2
+dump
+block c3
+dump
+block a4
+dump
+a7-a6
+a6-b6
+dump
+quit
